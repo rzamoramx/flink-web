@@ -1,0 +1,1 @@
+{"id":"40398520-71eb-4310-9430-325063493f1e","space":37738,"runtime":"nodejs14.x","name":"flink-web","path":"s2g3de","project":"b0o3v2w0","account":"144798365827","region":"us-east-1","deps":["express@^4.18.2","ejs@^3.1.8","request@^2.88.2","body-parser@^1.20.1"],"envs":null,"public":true,"log_level":"debug","cron":""}

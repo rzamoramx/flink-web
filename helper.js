@@ -10,7 +10,7 @@ api_get_request = function(url){
     })
 }
 
-// hendle post request to flink test symbols api
+// handle post request to flink test symbols api
 api_post_request = function(url, payload){
     var options = {
         uri: url,
