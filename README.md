@@ -28,3 +28,17 @@ y luego
 ```
 node index.js
 ```
+
+## Uso local
+
+ir al navegador con la direccion
+```
+localhost:3000/index
+```
+
+## Uso en la nube
+
+ir al navegador con la direccion
+```
+https://s2g3de.deta.dev/index
+```
